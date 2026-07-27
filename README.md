@@ -60,7 +60,7 @@ the progress of their service requests.
 
 
 ## Installation & Execution:
-1. Clone this repository `https://github.com/VCSTDN2024/prog7312-poe-st10302391.git`  
+1. Clone this repository  
 2. Open the project by opening the solution file (.sln) in Visual Studio 
 3. Build the project by clicking "Build", then "Build Solution" or F7
 4. Run the application by pressing the "Start" button
