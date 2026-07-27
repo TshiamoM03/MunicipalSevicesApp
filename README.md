@@ -70,11 +70,11 @@ Or simply download it by clicking the green `Code` button to download the projec
 
 ## Demonstration Video & POE Document
 
-| Submission        | Video Presentation         | POE Document        | 
-|------------------------|------------------------|------------------------|
-| Part 1 | [Part 1 Video Presentation](https://youtu.be/ybmTW8jIpIU?si=X9f4BJmVwwJBKtZc) | [ST10302391_PROG7312_PART1.pdf](https://github.com/user-attachments/files/22261064/ST10302391_PROG7312_PART1.pdf) |
-| Part 2 | [Part 2 Video Presentation](https://youtu.be/vc871rVtu4Q) | N/A |
-| Final ✨ | [Final Video Presentation](https://youtu.be/UVL2O7MCpfE) | [ST10302391_PROG7312_POE_final.pdf](https://github.com/user-attachments/files/23503284/ST10302391_PROG7312_POE_final.pdf) |
+| Submission        | Video Presentation         | 
+|------------------------|------------------------|
+| Part 1 | [Part 1 Video Presentation](https://youtu.be/ybmTW8jIpIU?si=X9f4BJmVwwJBKtZc) 
+| Part 2 | [Part 2 Video Presentation](https://youtu.be/vc871rVtu4Q) |
+| Final ✨ | [Final Video Presentation](https://youtu.be/UVL2O7MCpfE) | 
 
 ---
 
