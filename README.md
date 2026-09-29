@@ -1,12 +1,12 @@
 # Municipal Services Application
 
-The municipal services app is a simple Windows Forms desktop application designed to improve citizen engagement with local municipalities. 
+The Municipal Services App is a simple Windows Forms desktop application designed to improve citizen engagement with local municipalities. 
 It provides residents with a convenient way to report service delivery issues, stay informed about local events and track the progress of their service requests. 
 This project makes use of various data structures (Dictionaries, Heaps, Stacks, HashSets and Binary Search Trees) created from scratch.
 
 ## Current Features
 - **Navigation bar:**
-    - A side navigation menu that is visible on every page, providing quick access to all features on the app (used in favour of main menu for visibility)
+    - A side navigation menu that is visible on every page, providing quick access to all features on the app
     
 - **Report Service Related Issues:**
     - Enter location of issue
@@ -31,10 +31,10 @@ This project makes use of various data structures (Dictionaries, Heaps, Stacks, 
     - Only one event (one with the nearest date) per category is displayed to the user
 
 - **Service Request Status:**
-    - View list of all submitted service requests sorted by urgency
     - View list of all submitted service requests
+        - Sort by date or by urgency
     - Track service requests unique identifiers
-        - Search for a request by its unique ID by entiering the number and clicking the search button
+        - Search for a request by its unique ID by entering the number and clicking the search button
           
 - **Feedback and Reviews:**
     - User engagement strategy allowing users to submit feedback and suggestions
@@ -61,7 +61,7 @@ This project makes use of various data structures (Dictionaries, Heaps, Stacks, 
 1. Clone this repository  
 2. Open the project by opening the solution file (.sln) in Visual Studio 
 3. Build the project by clicking "Build", then "Build Solution" or F7
-4. Run the application by pressing the "Start" button
+4. Run the application
 Or simply download it by clicking the green `Code` button to download the project zip folder, unzip it and open in Visual Studio.
 
 ---
