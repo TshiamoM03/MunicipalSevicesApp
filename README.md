@@ -1,12 +1,10 @@
 # Municipal Services Application
 
 The municipal services app is a simple Windows Forms desktop application designed to improve citizen engagement with local municipalities. 
-It provides residents with a convenient way to report service delivery issues, stay informed about local events and track 
-the progress of their service requests. This project makes use of various data structures (Dictionaries, Heaps, Stacks, HashSets and Binary Search Trees) created from scratch.
-
+It provides residents with a convenient way to report service delivery issues, stay informed about local events and track the progress of their service requests. 
+This project makes use of various data structures (Dictionaries, Heaps, Stacks, HashSets and Binary Search Trees) created from scratch.
 
 ## Current Features
-
 - **Navigation bar:**
     - A side navigation menu that is visible on every page, providing quick access to all features on the app (used in favour of main menu for visibility)
     
@@ -18,7 +16,7 @@ the progress of their service requests. This project makes use of various data s
     - Submit issues
     - Pop up alert of a summary of the issue after it is submitted
  
-- **View and FIlter Events & Announcements:**
+- **View and Filter Events & Announcements:**
     - View local events and announcements with the following details: name, category, date, description
     - Filter events by date:
         - Users can find events within a certain date range by selecting a "start" date and an "end" date
@@ -31,7 +29,7 @@ the progress of their service requests. This project makes use of various data s
     - User search history is tracked and three recommendations are made based on
         - Firstly, their most recent search, then their most frequently searched categories
     - Only one event (one with the nearest date) per category is displayed to the user
-    - 
+
 - **Service Request Status:**
     - View list of all submitted service requests sorted by urgency
     - View list of all submitted service requests
